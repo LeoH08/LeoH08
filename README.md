@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor Full Stack apaixonado por tecnologia, sempre buscando aprender e aplicar novas ferramentas e práticas modernas. Tenho experiência em **desenvolvimento web**, **APIs REST**, **bancos de dados**, **DevOps** e muito mais.
 
-🚀 Sempre em evolução. Curioso por natureza e focado em escrever código limpo, performático e escalável.
+🚀 Sempre em evolução. Curioso por natureza, focado em escrever código limpo e escalável.
 
 ---
 
@@ -22,8 +22,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, sempre buscando apren
 
 ## 📊 Estatísticas do GitHub
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoH08&show_icons=true&theme=radical)
+![LeoH08's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoH08&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoH08&layout=compact&theme=radical)
 
@@ -37,8 +36,8 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, sempre buscando apren
 
 ## ✉️ Contato
 
-- ✉️ Email: **devleonardohgd@gmail.com**
+- ✉️ Email: [devleonardohgd@gmail.com]
 
 ---
 
-⭐ Obrigado por visitar o meu perfil! Sinta-se à vontade para se conectar comigo e colaborar em projetos incríveis!
+⭐ Obrigado por visitar o meu perfil! Conecte-se comigo para colaborarmos em projetos incríveis!
