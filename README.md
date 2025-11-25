@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor Full Stack apaixonado por tecnologia, sempre buscando aprender e aplicar novas ferramentas e práticas modernas. Tenho experiência em **desenvolvimento web**, **APIs REST**, **bancos de dados**, **DevOps** e muito mais.
 
-🚀 Sempre em evolução. Curioso por natureza, focado em escrever código limpo e escalável.
+🚀 Sempre em evolução. Curioso por natureza e focado em escrever código limpo, performático e escalável.
 
 ---
 
@@ -36,8 +36,8 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, sempre buscando apren
 
 ## ✉️ Contato
 
-- ✉️ Email: [devleonardohgd@gmail.com]
+- ✉️ Email: **devleonardohgd@gmail.com**
 
 ---
 
-⭐ Obrigado por visitar o meu perfil! Conecte-se comigo para colaborarmos em projetos incríveis!
+⭐ Obrigado por visitar o meu perfil! Sinta-se à vontade para se conectar comigo e colaborar em projetos incríveis!
