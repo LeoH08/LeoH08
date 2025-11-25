@@ -22,7 +22,8 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, sempre buscando apren
 
 ## 📊 Estatísticas do GitHub
 
-![LeoH08's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoH08&show_icons=true&theme=radical&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoH08&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoH08&layout=compact&theme=radical)
 
